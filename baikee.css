@@ -1,0 +1,44 @@
+body {
+	margin: auto;
+	padding: center;
+}
+
+.container {
+	position: relative;
+	height: 188.7px;
+	background: linear-gradient(-134deg, #e01a7a 0%, #ff661a 100%);
+	color: white;
+	padding: 40px 0;
+	font-family: sans-serif;
+	margin-right: auto;
+	margin-left: auto;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+.homepage_title {
+	margin: 0;
+	color: #fff;
+	font-size: 50px;
+	font-weight: bold;
+    font-style: normal;
+    font-variant: normal;
+    line-height: 1.2;
+}
+
+.row {
+	margin-left: -15px;
+	margin-right: -15px;
+}
+
+div {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+.address_field {
+	position: relative;
+}

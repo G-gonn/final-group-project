@@ -1,0 +1,2 @@
+class BikeLoan < ApplicationRecord
+end
